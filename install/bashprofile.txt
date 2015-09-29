@@ -1,0 +1,17 @@
+#gitbuddie config
+#Edit this file if you have located the gitbuddie folder somewhere else, then run "gb-deinstall" and run the "./install" script again.
+
+alias "gb-about=/gitbuddie/scripts/about.sh"
+alias "gb-help=/gitbuddie/scripts/help.sh"
+alias "gb-add=/gitbuddie/scripts/add.sh"
+alias "gb-commit=/gitbuddie/scripts/commit.sh"
+alias "gb-upush=/gitbuddie/scripts/pushu.sh"
+alias "gb-fpush=/gitbuddie/scripts/push.sh"
+alias "gb-install=/gitbuddie/install.sh"
+alias "gb-deinstall=/gitbuddie/install/deinstall.sh"
+alias "gb-ffast=/gitbuddie/scripts/fastpush.sh"
+alias "gb-ufast=/gitbuddie/scripts/fastpushu.sh"
+alias "gb-remove=/gitbuddie/scripts/remove.sh"
+alias "gb-pull=/gitbuddie/scripts/pull.sh"
+alias "gb-start=source /gitbuddie/scripts/start.sh"
+

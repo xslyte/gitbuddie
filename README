@@ -1,0 +1,32 @@
+"                                                  "
+"  _____ _ _     _               _     _ _         "
+" / ____(_) |   | |             | |   | (_)        "
+"| |  __ _| |_  | |__  _   _  __| | __| |_  ___    "
+"| | |_ | | __| |  _ \| | | |/ _  |/ _  | |/ _ \   "
+"| |__| | | |_  | |_) | |_| | (_| | (_| | |  __/   "
+" \_____|_|\__| |_ __/ \__ _|\__ _|\__ _|_|\___|   "
+"=================================================="
+By Marc Verbeek
+
+##Installation guide:##
+1-	Place "gitbuddie" directory in "/" folder
+2-	Run "./install" located in the install folder.
+3-	Enter the command: gb-help
+4-	Done
+
+cheatsheet:
+echo Commands
+gb-ffast = add, commit and push with 1 command in -f
+gb-upush = add, commit and push with 1 command in -u
+gb-add = selecting all files for upload
+gb-commit = commit everything to git
+gb-fpush = push everything to git with -f
+gb-upush = push everything to git with -u
+gb-remove = delete files
+gb-start = Go to your git files
+ 
+Config
+gb-install = readd all commands to bashprofile
+gb-deinstall = remove all gitbuddie related lines from bashprofile
+gb-about = see version of gitbuddie
+
